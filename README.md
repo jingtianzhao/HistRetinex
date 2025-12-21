@@ -1,3 +1,3 @@
 # HistRetinex
 
-The code will be open-sourced after the paper is accepted.
+This code will be open-sourced as soon as possible.
