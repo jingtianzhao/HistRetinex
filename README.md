@@ -1,4 +1,4 @@
 # HistRetinex
 
-Congratulations, HistRetinex has been accepted by IEEE Transactions on Image Processing！
 
+The source code will be released after code cleanup and organization.
