@@ -1,4 +1,3 @@
 # HistRetinex
 
-
-The source code will be released after code cleanup and organization.
+The source code for MATLAB and the corresponding MEX versions have been publicly released.
