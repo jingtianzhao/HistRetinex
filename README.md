@@ -2,8 +2,7 @@
 
 The source code for MATLAB and the corresponding MEX versions have been publicly released.
 
-The `main_demo_mex_replace.m` is the main MEX function.
-The `test_proposed.m` is the main MATALB function
+The `main_demo_mex_replace.m` and `test_proposed.m` are the main MEX and MATALB function, respectively.
 
 If you use this code in your research or publications, please cite our paper accordingly.
 
